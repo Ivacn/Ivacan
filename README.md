@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python<br>⚡ I love building projects on Front-end
+🌱 I’m currently learning Tailwind<br>⚡ I love building projects on Front-end
 
 
 ## 🌐 Socials:
